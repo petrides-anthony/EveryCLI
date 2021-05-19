@@ -21,7 +21,7 @@ show_menus() {
 # Exit when user the user select 5 form the menu option.
 read_options(){
 	local option
-	read -p "Enter option [ 1 - 8] " option
+	read -p "                 Enter option [ 1 - 8 ] " option
 	case $option in
 		1) . ./bin/sub-menu.sh ;;
 		2) . ./bin/set-npm-registry.sh && pause;;
