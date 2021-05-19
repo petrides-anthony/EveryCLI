@@ -1,5 +1,3 @@
 #!/bin/bash
 
-	echo "~~~~~~~~~~~~~~~~~~~~~"	
-	echo " E V E R Y - C L I"
-	echo "~~~~~~~~~~~~~~~~~~~~~"
+cat ./bin/Logo/logo-art.txt
