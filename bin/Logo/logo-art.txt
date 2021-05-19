@@ -18,7 +18,7 @@
     )    5. Edit Zsh (vscode)     6. About              (
    (                                                     )
     )                7. Restart this CLI                (
-   (                       8. Exit                      )
+   (                       8. Exit                       )
     )                                                   (
    '-----------------------------------------------------'
    |     https://github.com/petrides-anthony/EveryCLI/   |
