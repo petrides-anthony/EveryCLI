@@ -16,7 +16,9 @@
     )    1. Enter sub menu        2. Set npm registry   (
    (     3. Kill a port           4. Reload zsh          )
     )    5. Edit Zsh (vscode)     6. About              (
-   (     7. Restart this CLI      8. Exit                )
+   (                                                     )
+    )                7. Restart this CLI                (
+   (                       8. Exit                      )
     )                                                   (
    '-----------------------------------------------------'
    |     https://github.com/petrides-anthony/EveryCLI/   |
