@@ -3,6 +3,8 @@ The EveryCLI - created to make the everyday terminal tasks easy to run and less 
 
 ![image](https://user-images.githubusercontent.com/25196139/118805171-896e1000-b89d-11eb-9b96-3c004f718dad.png)
 
+The CLI is setup in a way intended to allow users to easily add there own options. This includes an example of creating an interactive option with sub-options too.
+
 ## Requirements
 * OSX operating system
 
