@@ -21,16 +21,17 @@ show_menus() {
 # Exit when user the user select 5 form the menu option.
 read_options(){
 	local option
-	read -p "                 Enter option [ 1 - 8 ] " option
+	read -p "                 Enter option [ 1 - 9 ] " option
 	case $option in
 		1) . ./bin/sub-menu.sh ;;
 		2) . ./bin/set-npm-registry.sh && pause;;
 		3) . ./bin/kill-port.sh && pause;;
 		4) . ./bin/reload-zsh.sh ;;
 		5) . ./bin/edit-zsh.sh && pause;;
-		6) . ./bin/about.sh && pause;;
-		7) . ./main.sh ;;
-		8) exit 0;;
+		6) . ./bin/stop-mcafee.sh && pause;;
+		7) . ./bin/about.sh && pause;;
+		8) . ./main.sh ;;
+		9) exit 0;;
 		*) echo -e "${RED}Error...please select a valid option${STD}" && sleep 2
 	esac
 }
