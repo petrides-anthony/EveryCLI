@@ -16,10 +16,11 @@
     )    1. Enter sub menu        2. Set npm registry   (
    (     3. Kill a port           4. Reload zsh          )
     )    5. Edit Zsh (vscode)     6. Stop McAfee        (
-   (     7. About                                        )                                                     )
-    )                8. Restart this CLI                (
-   (                       9. Exit                       )
+   (     7. About                                        )
     )                                                   (
+   (                8. Restart this CLI                  )
+    )                       9. Exit                     (
+   (                                                     )
    '-----------------------------------------------------'
    |     https://github.com/petrides-anthony/EveryCLI/   |
    '-----------------------------------------------------'
